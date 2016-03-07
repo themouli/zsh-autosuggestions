@@ -32,6 +32,7 @@
 # Color to use when highlighting suggestion
 # Uses format of `region_highlight`
 # More info: http://zsh.sourceforge.net/Doc/Release/Zsh-Line-Editor.html#Zle-Widgets
+# 0-black, 1-red, 2-green, 3-yellow, 4-blue, 5-magenta, 6-cyan and 7-white
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=2'
 
 # Prefix to use when saving original versions of bound widgets

@@ -15,7 +15,7 @@ source $DIST_DIR/zsh-autosuggestions.zsh
 
 testHighlightDefaultStyle() {
 	assertEquals \
-		"fg=8" \
+		"fg=2" \
 		"$ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE"
 }
 
